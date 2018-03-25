@@ -11,5 +11,11 @@ General purpose framework to build logical dependencies.
 - Graph editors
   
 # State:
+Highly volatile.
 Ongoing development.
 Do not use.
+  
+# Warnings:
+- Will undergo MAJOR changes.
+- No documentation/examples until it reaches a stable state.
+- Highly abstract philosophical goals which might not translate to practice (they should, but theory and practice tend to diasgree :/ )
